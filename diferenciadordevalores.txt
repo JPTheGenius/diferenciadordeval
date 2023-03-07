@@ -1,0 +1,28 @@
+programa
+{
+	
+	funcao inicio()
+	{
+
+		inteiro val1,val2
+		escreva("Informe um valor : ")
+		leia(val1)
+
+		
+		escreva("Informe um valor : ")
+		leia(val2)
+
+		limpa()
+
+		se (val1>val2) {
+			escreva(" O valor 1 é maior que o valor 2")
+			
+			}
+
+			senao{
+			escreva("  O valor 2 é maior que o valor 1")
+			
+			}
+
+	}
+}
